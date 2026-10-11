@@ -1,0 +1,3 @@
+# Single-page app: serve the app shell for every path.
+# Used by Netlify / Cloudflare Pages style hosts.
+/*    /index.html   200
